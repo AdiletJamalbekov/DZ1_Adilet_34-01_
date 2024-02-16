@@ -1,1 +1,0 @@
-# Big Header gor repositories
